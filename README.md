@@ -81,4 +81,6 @@ Install pgAdmin to inspect your database
 
 
 📚 Best Free Resources
-ResourcelinkOfficial Odoo Dev Docsodoo.com/documentation/17.0Odoo eCampus (free)odoo.com/slidesOCA GitHub (real code examples)github.com/OCAOdoo Community Forumodoo.com/forum
+Resource link Official Odoo Dev Docs odoo.com/documentation/17.0
+Odoo eCampus (free)odoo.com/slides OCA GitHub (real code examples) github.com/OCA
+Odoo Community Forum odoo.com/forum
